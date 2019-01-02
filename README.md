@@ -1,7 +1,7 @@
 # AppIconBadge
 解决在前台时重启应用和设置应用角标的问题
 
-简书地址：
+简书地址：https://www.jianshu.com/p/d1a933853013
 
  >  问：应用启动时是否会执行 - (void)applicationWillEnterForeground:(UIApplication *)application ？
  答：不会 ？ 你确定？那看一哈下面的情况。
