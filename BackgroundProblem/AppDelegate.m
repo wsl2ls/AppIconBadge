@@ -12,8 +12,7 @@
 #import <UserNotifications/UserNotifications.h>
 
 @interface AppDelegate () <UNUserNotificationCenterDelegate> {
-    //毛玻璃
-    UIVisualEffectView *_effectView;
+    UIVisualEffectView *_effectView; //毛玻璃
 }
 
 @end
